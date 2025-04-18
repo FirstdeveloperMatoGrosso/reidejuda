@@ -1,0 +1,50 @@
+# Arquivos de ambiente e senhas
+.env
+*.env
+credentials.json
+*.pem
+*.key
+
+# Arquivos gerados
+*.mp4
+*.mp3
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Diretórios de cache e temporários
+.venv
+venv/
+.env/
+env/
+.vscode/
+node_modules/
+
+# Arquivos de mídia grandes (podem ser excluídos do repositório)
+imagens_biblicas/
+videos/
+
+# Arquivos de log
+*.log
+npm-debug.log*
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
