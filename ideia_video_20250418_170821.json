@@ -1,0 +1,49 @@
+{
+    "titulo": "Vídeo Bíblico - Versículos Diários",
+    "tema": {
+        "categoria": "Versículos Diários",
+        "formato": "Short-form vertical",
+        "duracao": "15-30 segundos",
+        "elementos": [
+            "Música de fundo suave",
+            "Texto do versículo aparecendo gradualmente",
+            "Imagens de natureza ou cenários contemplativos",
+            "Efeitos de transição suaves"
+        ],
+        "hashtags": [
+            "#Biblia",
+            "#Fé",
+            "#Deus",
+            "#VersiculoDoDia",
+            "#Jesus"
+        ]
+    },
+    "versiculo_base": {
+        "referencia": "Isaías 41:10",
+        "texto": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus."
+    },
+    "roteiro": {
+        "introducao": "Gancho inicial de 3 segundos",
+        "desenvolvimento": "Apresentação do versículo e contexto",
+        "aplicacao": "Como aplicar na vida prática",
+        "conclusao": "Call-to-action e fechamento"
+    },
+    "elementos_tecnicos": {
+        "duracao": "15-30 segundos",
+        "formato": "Vertical (9:16)",
+        "musica": "Instrumental suave de fundo",
+        "elementos_visuais": [
+            "Música de fundo suave",
+            "Texto do versículo aparecendo gradualmente",
+            "Imagens de natureza ou cenários contemplativos",
+            "Efeitos de transição suaves"
+        ]
+    },
+    "hashtags": [
+        "#Biblia",
+        "#Fé",
+        "#Deus",
+        "#VersiculoDoDia",
+        "#Jesus"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+  "data_atualizacao": "2025-04-18T21:36:36.412701",
+  "musicas": [
+    {
+      "titulo": "Todavia Me Alegrarei",
+      "artista": "Gabriela Rocha",
+      "url": "https://www.youtube.com/watch?v=0JvQJ_XNKIw",
+      "hashtags": [
+        "#GabrielaRocha",
+        "#Gospel",
+        "#Adoração"
+      ],
+      "visualizacoes": 15000000
+    },
+    {
+      "titulo": "Deus É Deus",
+      "artista": "Delino Marçal",
+      "url": "https://www.youtube.com/watch?v=X6N6W8Gh6yE",
+      "hashtags": [
+        "#DelinoMarçal",
+        "#DeusÉDeus",
+        "#Gospel"
+      ],
+      "visualizacoes": 12000000
+    },
+    {
+      "titulo": "Ninguém Explica Deus",
+      "artista": "Preto no Branco ft. Gabriela Rocha",
+      "url": "https://www.youtube.com/watch?v=X6N6W8Gh6yE",
+      "hashtags": [
+        "#PretoNoBranco",
+        "#GabrielaRocha",
+        "#Gospel"
+      ],
+      "visualizacoes": 10000000
+    }
+  ]
+}

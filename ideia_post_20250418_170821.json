@@ -1,0 +1,40 @@
+{
+    "titulo": "Post Bíblico - 18/04/2025",
+    "versiculo": {
+        "referencia": "Jeremias 29:11",
+        "texto": "Porque eu bem sei os pensamentos que tenho a vosso respeito, diz o Senhor; pensamentos de paz, e não de mal, para vos dar o fim que esperais."
+    },
+    "template": {
+        "tipo": "Citação Inspiradora",
+        "estilo": "Moderno",
+        "cores": [
+            "#2C3E50",
+            "#ECF0F1",
+            "#E74C3C"
+        ],
+        "fontes": [
+            "Lato",
+            "Open Sans"
+        ],
+        "elementos": [
+            "Texto inspirador",
+            "Versículo de apoio",
+            "Elementos gráficos minimalistas",
+            "Hashtags relevantes"
+        ]
+    },
+    "sugestoes": [
+        "Use transições suaves entre elementos",
+        "Mantenha o texto legível (fonte clara e grande)",
+        "Adicione música de fundo suave e inspiradora",
+        "Inclua elementos visuais que complementem a mensagem"
+    ],
+    "hashtags": [
+        "#BibliaNoTikTok",
+        "#VersiculoDoDia",
+        "#Fe",
+        "#Jesus",
+        "#Deus",
+        "#Jeremias2911"
+    ]
+}

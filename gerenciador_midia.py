@@ -66,6 +66,8 @@ class GerenciadorMidia:
 
 #OReiDeJuda #ConteudoBiblico #SemanaSanta
 #Gospel #Jesus #Deus #Fé"""
+        
+        return creditos
 
     def formatar_texto_tiktok(self, texto: str) -> str:
         """Formata o texto para melhor visualização no TikTok"""

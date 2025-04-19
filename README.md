@@ -36,3 +36,10 @@ Este projeto automatiza a criação e publicação de conteúdo bíblico inspira
 ## Licença
 
 Este projeto é para uso pessoal. Todos os direitos reservados.
+
+## Direitos Autorais
+
+ 2025 Rodrigo Dev MT
+- Email: suporte@firstsistemas.com.br / rodrigodev@yahoo.com
+- Telefone: (66) 99225-8469 / 99248-0993
+- Site: www.rodrigodev.shop
